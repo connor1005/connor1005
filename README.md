@@ -11,7 +11,7 @@ I'm a Computer Science student at the University of Connecticut (UConn) and a ca
 ## 🛠️ Tech Stack & Interests
 
 - **Languages:** Python, C++
-- **Concepts:** Cybersecurity, Digital Logic, Electrostatics, Computer Architecture
+- **Concepts:** Cybersecurity, Web Vulnerabilities, Digital Logic, Computer Architecture
 
 ## 📫 Let's Connect
 
