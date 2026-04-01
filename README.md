@@ -1,5 +1,7 @@
 # Hi there, I'm Connor 👋
 
+[![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=github)](YOUR_LINKEDIN_URL)
+
 I'm a Computer Science student at the University of Connecticut (UConn) and a cadet in AFROTC Detachment 115, preparing for a future career as an officer in the U.S. Space Force. 🚀
 
 ## 👨‍💻 About Me
