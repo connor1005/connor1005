@@ -8,13 +8,13 @@ I'm a Computer Science student at the University of Connecticut (UConn) and a ca
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently focused on coursework in **Computer Architecture, Cybersecurity, and C++ Essentials**.
-- 🌱 I’m actively building my skills in **Python, C++, and RISC-V assembly**.
+- 🌱 I’m actively building my skills in **Python, C++, and HTML**.
 - 🚀 I recently received a Space Force Enrollment Allocation and am gearing up for field training this summer.
 
 ## 🛠️ Tech Stack & Interests
 
 - **Languages:** Python, C++
-- **Concepts:** Cybersecurity, Web Vulnerabilities, Digital Logic, Computer Architecture
+- **Concepts:** Cybersecurity, Web Vulnerabilities, Digital Logic
 
 ## 📫 Let's Connect
 
