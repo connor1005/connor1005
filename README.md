@@ -1,4 +1,4 @@
-# Hi there, I'm Connor 👋
+# Hi!
 
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=github)](YOUR_LINKEDIN_URL)
 [![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge&logo=github)](#)
