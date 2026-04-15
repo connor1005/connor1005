@@ -19,4 +19,4 @@ I'm a Computer Science student at the University of Connecticut (UConn) and a ca
 ## Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/connor-ingram-53958a270/)
-- Portfolio coming soon :)
+- [Portfolio](https://connor-ingram.com)
