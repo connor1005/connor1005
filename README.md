@@ -3,7 +3,7 @@
 [![Open to Work](https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge&logo=github)](YOUR_LINKEDIN_URL)
 [![Open to Internships](https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge&logo=github)](#)
 
-I'm a Computer Science student at the University of Connecticut (UConn).
+I'm a Computer Science student with a concentration in Cybersecurity at the University of Connecticut.
 
 ## About Me
 
