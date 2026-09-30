@@ -7,7 +7,7 @@ I'm a Computer Science student at the University of Connecticut (UConn).
 
 ## About Me
 
-- I’m currently focused on coursework in **Computer Architecture, Cybersecurity, and C++ Essentials**.
+- I’m currently focused on coursework in **Cryptography, Cybersecurity, and Algorithms**.
 - I’m actively building my skills in **Python, C++, and HTML**.
 
 ## Tech Stack & Interests
